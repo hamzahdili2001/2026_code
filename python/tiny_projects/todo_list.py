@@ -90,3 +90,20 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+##TODO:
+#Persistent storage: tasks are saved to todos.json and loaded next run
+
+#Auto-renumber: after deletion, tasks are re-indexed sequentially
+
+#Safe input validation: prevents crashes if user enters text instead of numbers
+
+#Continuous CLI loop: user can perform multiple actions without restarting
+
+#Sorted view: tasks are always shown in order
+
+
+# ADD UPDATE
+# ADD DELETE ALL TASKS
+# ADD FLASK FOR WEB VIEW
+
